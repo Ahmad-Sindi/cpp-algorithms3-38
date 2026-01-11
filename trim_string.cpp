@@ -51,7 +51,7 @@ string Trim(string S1)
 
 int main()
 {
-    string S1 = "        Ali Salih        ";
+    string S1 = "        Your Name        ";
 
     cout << "Original String = [" << S1 << "]" << endl;
     cout << "\nTrim Left  = [" << TrimLeft(S1) << "]" << endl;

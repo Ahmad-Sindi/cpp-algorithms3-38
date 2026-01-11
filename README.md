@@ -26,15 +26,15 @@ to emphasize low-level string traversal and algorithmic control.
 -
 **Input:**
 
-" Ali Saleh "
+" Your Name "
 
 **Output:**
 
-Trim Left = "Ali Saleh---------"
+Trim Left = "Your Name---------"
 
-Trim Right = "----------Ali Saleh"
+Trim Right = "----------Your Name"
 
-Trim = "Ali Saleh"
+Trim = "Your Name"
 
 
 ---

@@ -30,9 +30,9 @@ to emphasize low-level string traversal and algorithmic control.
 
 **Output:**
 
-Trim Left = "Ali Saleh          "
+Trim Left = "Ali Saleh---------"
 
-Trim Right = "          Ali Saleh"
+Trim Right = "----------Ali Saleh"
 
 Trim = "Ali Saleh"
 
